@@ -1,0 +1,21 @@
+{
+    "name": "rc/number-format",
+    "description": "一个处理数字的包",
+    "authors": [
+        {
+            "name": "ouyangfy",
+            "email": "824029856@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "numberFormat\\": "src/"
+        }
+    },
+    "license": "MIT"
+
+}
